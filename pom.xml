@@ -10,7 +10,7 @@
 
   <groupId>org.azolla</groupId>
   <artifactId>org.azolla</artifactId>
-  <version>0.0.1.Lab-SNAPSHOT</version>
+  <version>0.0.2.Lab-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>org.azolla</name>
@@ -102,7 +102,7 @@
     <maven-gpg-plugin.version>1.6</maven-gpg-plugin.version>
   </properties>
 
-  <!-- mvn -N versions:set -DgenerateBackupPoms=false -DnewVersion=0.0.1.Lab-SNAPSHOT -->
+  <!-- mvn -N versions:set -DgenerateBackupPoms=false -DnewVersion=0.0.2.Lab-SNAPSHOT -->
   <modules>
     <module>../org.azolla.clover</module>
   </modules>
