@@ -3,7 +3,7 @@
     <module name="org.azolla.sqlparser"/>
     <extension name="coverage">
       <pattern>
-        <option name="PATTERN" value="org.azolla.sqlparser.*"/>
+        <option name="PATTERN" value="gudusoft.gsqlparser.*"/>
         <option name="ENABLED" value="true"/>
       </pattern>
     </extension>
