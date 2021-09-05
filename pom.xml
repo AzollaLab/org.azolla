@@ -5,7 +5,7 @@
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
-    <version>2.4.1</version>
+    <version>2.5.4</version>
   </parent>
 
   <groupId>org.azolla</groupId>
@@ -94,10 +94,10 @@
     <!-- dependencies : updated 2021.1.7 -->
     <com.github.liaochong_myexcel_version>3.11.4</com.github.liaochong_myexcel_version>
     <!-- build plugins -->
-    <org.jacoco_jacoco-maven-plugin_version>0.8.6</org.jacoco_jacoco-maven-plugin_version>
-    <org.sonarsource.scanner.maven_sonar-maven-plugin_version>3.8.0.2131</org.sonarsource.scanner.maven_sonar-maven-plugin_version><!-- sonar:sonar -->
+    <org.jacoco_jacoco-maven-plugin_version>0.8.7</org.jacoco_jacoco-maven-plugin_version>
+    <org.sonarsource.scanner.maven_sonar-maven-plugin_version>3.9.0.2155</org.sonarsource.scanner.maven_sonar-maven-plugin_version><!-- sonar:sonar -->
     <!-- profile plugins -->
-    <maven-gpg-plugin.version>1.6</maven-gpg-plugin.version>
+    <maven-gpg-plugin.version>3.0.1</maven-gpg-plugin.version>
   </properties>
 
   <!-- mvn -N versions:set -DgenerateBackupPoms=false -DnewVersion=0.0.2.Lab-SNAPSHOT -->
